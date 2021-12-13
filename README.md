@@ -4,6 +4,7 @@ Placa de Arduino con botón ON/OFF.
 
 
 Programa imprime 1 cuando botón ON.
+
 Programa imprime 0 cuando botón OFF.
 
 
