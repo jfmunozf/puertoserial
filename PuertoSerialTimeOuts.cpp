@@ -1,4 +1,4 @@
-*
+/*
     16 dic 2021
 
     Se agrega control de timeouts: La llamada a ReadFile() es bloqueante
